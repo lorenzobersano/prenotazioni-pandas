@@ -20,6 +20,7 @@ public class Fragment_About extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.about, container, false);
         TextView sendEmail = (TextView)v.findViewById(R.id.mail_item);
+        TextView goToGithub = (TextView)v.findViewById(R.id.github_item);
         sendEmail.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -27,6 +28,14 @@ public class Fragment_About extends Fragment {
                 intent.setAction(Intent.ACTION_SENDTO);
                 intent.setData(Uri.parse("mailto: lorenzo.bersano@gmail.com"));
                 startActivity(intent);
+            }
+        });
+
+        goToGithub.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/lorenzobersano"));
+                startActivity(browserIntent);
             }
         });
         return v;
