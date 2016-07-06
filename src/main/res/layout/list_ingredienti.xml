@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottomsheet_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerViewIngredienti"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+            />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabLista"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/check"
+            android:layout_gravity="bottom|end"/>
+</android.support.design.widget.CoordinatorLayout>

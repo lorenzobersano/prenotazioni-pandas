@@ -1,0 +1,91 @@
+<resources>
+    <string-array name="ingredients_array">
+        <item>Bacon</item>
+        <item>Carne impanata</item>
+        <item>Wurstel</item>
+        <item>Salsiccia</item>
+        <item>Uova sode</item>
+        <item>Frittate</item>
+        <item>Prosciutto cotto</item>
+        <item>Prosciutto crudo</item>
+        <item>Salame pasta fine</item>
+        <item>Salame pasta grossa</item>
+        <item>Spianata calabra</item>
+        <item>Mortadella</item>
+        <item>Speck</item>
+        <item>Arrosto di tacchino</item>
+        <item>Lardo</item>
+        <item>Pancetta arrotolata</item>
+        <item>Porchetta</item>
+        <item>Bresaola</item>
+        <item>Provola</item>
+        <item>Scamorza</item>
+        <item>Fontina</item>
+        <item>Gorgonzola</item>
+        <item>Mozzarella</item>
+        <item>Bufala</item>
+        <item>Brie</item>
+        <item>Stracchino</item>
+        <item>Parmigiano</item>
+        <item>Pecorino</item>
+        <item>Ricotta</item>
+        <item>Edamer</item>
+        <item>Friarielli</item>
+        <item>Carciofini</item>
+        <item>Cetriolini</item>
+        <item>Melanzane</item>
+        <item>Funghetti</item>
+        <item>Pomodori secchi</item>
+        <item>Peperoncini</item>
+        <item>Zucchine</item>
+        <item>Mais</item>
+        <item>Insalata verde</item>
+        <item>Insalata rossa</item>
+        <item>Rucola</item>
+        <item>Pomodoro</item>
+        <item>Carote</item>
+        <item>Finocchi</item>
+        <item>Funghi</item>
+        <item>Cipolla di Tropea</item>
+        <item>Peperoni grigliati</item>
+        <item>Peperoni saltati</item>
+        <item>Zucchine grigliate</item>
+        <item>Zucchine saltate</item>
+        <item>Melanzane grigliate</item>
+        <item>Patate bollite</item>
+        <item>Patate saltate</item>
+        <item>Patate fritte</item>
+        <item>Cipolle croccanti</item>
+        <item>Cipolle saltate</item>
+        <item>Crauti</item>
+        <item>Funghi trifolati</item>
+        <item>Spinaci al burro</item>
+        <item>Friggitelli</item>
+        <item>Fagioli</item>
+        <item>Acciughe</item>
+        <item>Tonno</item>
+        <item>Pesce impanato</item>
+        <item>ketchup</item>
+        <item>maionese</item>
+        <item>barbecue</item>
+        <item>senape</item>
+        <item>salsa rosa</item>
+        <item>tartara</item>
+        <item>yogurt</item>
+        <item>Pan.da\'s piccante</item>
+        <item>Pan.da\'s dolce</item>
+        <item>Pan.da\'s saporita</item>
+    </string-array>
+    <string-array name="salse_array">
+        <item>ketchup</item>
+        <item>maionese</item>
+        <item>barbecue</item>
+        <item>senape</item>
+        <item>salsa rosa</item>
+        <item>tartara</item>
+        <item>yogurt</item>
+        <item>Pan.da\'s piccante</item>
+        <item>Pan.da\'s dolce</item>
+        <item>Pan.da\'s saporita</item>
+    </string-array>
+</resources>

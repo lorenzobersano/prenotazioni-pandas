@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prenotazioni Pan.da\'s</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_favourites_">Favourites_Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_me">Ho 19 anni, studio Informatica presso l\'Università degli Studi di Torino. Ho scoperto Panda\'s solo l\'anno scorso, ma è stato amore a prima vista. #PandaPower</string>
+</resources>

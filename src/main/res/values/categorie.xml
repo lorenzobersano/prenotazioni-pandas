@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorie_array">
+        <item>Carni e uova</item>
+        <item>Salumi</item>
+        <item>Formaggi</item>
+        <item>In vasetto</item>
+        <item>Verdura cruda</item>
+        <item>Verdura cotta</item>
+        <item>Pesce</item>
+        <item>Salse (Opzionale)</item>
+    </string-array>
+</resources>
